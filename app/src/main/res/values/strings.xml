@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HybridCordovaApp</string>
+    <string name="title_activity_cordova_view_test">CordovaViewTestActivity</string>
+</resources>
